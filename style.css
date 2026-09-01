@@ -1,0 +1,50 @@
+body {
+    background-color: #101827;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #D6A85F;
+    color: #241A0E;
+    text-align: center;
+    max-width: 800px;
+    margin: 20px auto 0;
+    padding: 16px;
+    border: 5px solid #8B6B43;
+}
+
+main {
+    background-color: #E8D8B8;
+    color: #302719;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.artigo {
+    margin-bottom: 35px;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+video {
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #76552D;
+}
